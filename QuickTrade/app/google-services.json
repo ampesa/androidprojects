@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "785989167873",
+    "firebase_url": "https://quicktrade-9d786.firebaseio.com",
+    "project_id": "quicktrade-9d786",
+    "storage_bucket": "quicktrade-9d786.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785989167873:android:090ac9495e192e46",
+        "android_client_info": {
+          "package_name": "com.apps.apene.quicktrade"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "785989167873-8hgkgq27t52a9s16t7m9qihuanjj1u6t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDixqrcxErKafNtKPZBXpDgcryi3id9GyQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

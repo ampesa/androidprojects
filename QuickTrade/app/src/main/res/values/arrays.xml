@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="show_list">
+        <item>@string/pref_list_show_item_recent</item>
+        <item>@string/pref_list_show_item_near</item>
+    </string-array>
+
+    <string-array name="show_values">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+
+    <string-array name="search_list">
+        <item>@string/pref_list_search_item_recent</item>
+        <item>@string/pref_list_search_item_cheap</item>
+    </string-array>
+
+    <string-array name="search_values">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+
+    <string-array name="product_categories">
+        <item>@string/spn_add_product_category_vehicles</item>
+        <item>@string/spn_add_product_category_home</item>
+        <item>@string/spn_add_product_category_tech</item>
+    </string-array>
+
+    <string-array name="product_country">
+        <item>@string/spn_add_product_country_spain</item>
+        <item>@string/spn_add_product_country_france</item>
+        <item>@string/spn_add_product_country_germany</item>
+        <item>@string/spn_add_product_country_usa</item>
+    </string-array>
+
+    <string-array name="product_search_categories">
+        <item>@string/spn_advanced_category_all</item>
+        <item>@string/spn_add_product_category_vehicles</item>
+        <item>@string/spn_add_product_category_home</item>
+        <item>@string/spn_add_product_category_tech</item>
+    </string-array>
+
+    <string-array name="product_search_country">
+        <item>@string/spn_advanced_country_all</item>
+        <item>@string/spn_add_product_country_spain</item>
+        <item>@string/spn_add_product_country_france</item>
+        <item>@string/spn_add_product_country_germany</item>
+        <item>@string/spn_add_product_country_usa</item>
+    </string-array>
+
+</resources>

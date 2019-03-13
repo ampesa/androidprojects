@@ -1,0 +1,347 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\apene\Documents\DAM_PC\AndroidStudioProjects\QuickTrade_Espresso\QuickTrade\app\src\main\AndroidManifest.xml:2:1-56:12
+INJECTED from C:\Users\apene\Documents\DAM_PC\AndroidStudioProjects\QuickTrade_Espresso\QuickTrade\app\src\main\AndroidManifest.xml:2:1-56:12
+INJECTED from C:\Users\apene\Documents\DAM_PC\AndroidStudioProjects\QuickTrade_Espresso\QuickTrade\app\src\main\AndroidManifest.xml:2:1-56:12
+INJECTED from C:\Users\apene\Documents\DAM_PC\AndroidStudioProjects\QuickTrade_Espresso\QuickTrade\app\src\main\AndroidManifest.xml:2:1-56:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha2] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\constraintlayout-2.0.0-alpha2.aar\688eb9a92e9def91bd37ed61b902f59c\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.1.0-alpha01] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\appcompat-1.1.0-alpha01.aar\50cc066079d8b8475105c3040b0aa7fc\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-alpha01] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\recyclerview-1.1.0-alpha01.aar\3c73fd1544f2562448b7b1dac328bb5e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.firebaseui:firebase-ui-storage:4.1.0] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\jetified-firebase-ui-storage-4.1.0.aar\3eb3b7b49300cdb7febbb34148af82ff\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-database:16.0.1] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\jetified-firebase-database-16.0.1.aar\06a6f23c747890d55051588a038ab183\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-auth:16.0.1] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\jetified-firebase-auth-16.0.1.aar\f38648320230b5caaeff0919fb273ff0\AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.firebase:firebase-storage:16.0.1] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\jetified-firebase-storage-16.0.1.aar\364c4b55a11579978f3379ddf2105fd8\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-database-connection:16.0.1] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\jetified-firebase-database-connection-16.0.1.aar\2597e758a4fc58ed67ee475dc49c71ee\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.0] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\jetified-firebase-auth-interop-16.0.0.aar\e5494863ff864d4cc82bf1eb5f57bcdb\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-common:16.0.0] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\jetified-firebase-common-16.0.0.aar\b4d188dbe24069e0ae6bc4e475296181\AndroidManifest.xml:2:1-16:12
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\play-services-flags-15.0.1.aar\086d45a8e2f3ffb00c9c1a145ea87aa6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-15.0.1.aar\78e17ee54372da63eb9ea7b2a125d8dc\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\jetified-play-services-tasks-15.0.1.aar\90ce6b5e61aac116bdf202db72d18274\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-database-collection:15.0.1] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\firebase-database-collection-15.0.1.aar\3a4cfc99751695223b82fd60ceb30b1c\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-storage-common:16.0.1] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\jetified-firebase-storage-common-16.0.1.aar\f59f87ef4a0aeb6ce004817d52ce5f25\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-15.0.1.aar\7451d4195949928085f9b388ef449a63\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0.aar\9ddfd829a047fed8e7b8cc0b3636aeae\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.7.1] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\jetified-glide-4.7.1.aar\c532eb3a4df3970e292acfa9e117f0a2\AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\1540ddaef7d5f4ef729cf0cb086a1fd3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\6ec4c514c5d50740ed8be5a850d50bcd\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\2bcfc59a9a2b1f255b8f8491acdfdb46\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\4b6512b107666aae429676cb53ce825a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0-alpha02] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\fragment-1.1.0-alpha02.aar\3c0127dd61bd793a125ed3cdfc34f0a0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\502c2bd91f18553ca7b0d1a8fe746643\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\6a8a7140cd401320986338e0de639932\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\1f19c133a9d66ab5e170cf71ba76c0f7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\b635a819b28a5af964a852dc2372f0b6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\1d83b0474c98275025f4828294ce6da0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\6d28d432b57744ca80c52a264cd5946c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\49392e572eb68bfec0ec8f7a6517d049\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\59d29040d81e2d1406c7eec8bbcf87f5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\cda27cb4f84411b70a387a658bb40310\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\993cf0a5dd8e80f0ec3475e7f219d77c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\0049340560f25d668dd17a818cd69925\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\ae4b74ade67efc51f3d437ca1d47e5ce\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0-alpha02] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\activity-1.0.0-alpha02.aar\6affad247874bc3a024e72a0f35f039a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\6f8ae9de3156a4da5c59d908fe09992b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\14f2b3b0f94fd3036c1a40f86419bc7e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\a5b4696c5f360c2956d786aced2fac8f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\9218358202e0f8c6b8005b7290fdf367\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\media-1.0.0.aar\9763a64e8546dca4297e8eafc42a0b97\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.1.aar\a09ec8a571cbd32e437a44a7cf08a3d0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0-alpha02] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\core-1.1.0-alpha02.aar\b3ecdb2f276ac8afa50010a81a0a46a9\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\bfe446c133596fba69f42d6dbe8b268c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha01] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0-alpha01.aar\8ce199417ec2e17ba0696a7bc0d83186\AndroidManifest.xml:17:1-25:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\jetified-gifdecoder-4.7.1.aar\48839b6211c0f8e9c5a5bacba079a6e3\AndroidManifest.xml:2:1-11:12
+INJECTED from C:\Users\apene\Documents\DAM_PC\AndroidStudioProjects\QuickTrade_Espresso\QuickTrade\app\src\main\AndroidManifest.xml:2:1-56:12
+INJECTED from C:\Users\apene\Documents\DAM_PC\AndroidStudioProjects\QuickTrade_Espresso\QuickTrade\app\src\main\AndroidManifest.xml:2:1-56:12
+INJECTED from C:\Users\apene\Documents\DAM_PC\AndroidStudioProjects\QuickTrade_Espresso\QuickTrade\app\src\main\AndroidManifest.xml:2:1-56:12
+	package
+		ADDED from C:\Users\apene\Documents\DAM_PC\AndroidStudioProjects\QuickTrade_Espresso\QuickTrade\app\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from C:\Users\apene\Documents\DAM_PC\AndroidStudioProjects\QuickTrade_Espresso\QuickTrade\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\apene\Documents\DAM_PC\AndroidStudioProjects\QuickTrade_Espresso\QuickTrade\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\apene\Documents\DAM_PC\AndroidStudioProjects\QuickTrade_Espresso\QuickTrade\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\apene\Documents\DAM_PC\AndroidStudioProjects\QuickTrade_Espresso\QuickTrade\app\src\main\AndroidManifest.xml:2:1-56:12
+		INJECTED from C:\Users\apene\Documents\DAM_PC\AndroidStudioProjects\QuickTrade_Espresso\QuickTrade\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\apene\Documents\DAM_PC\AndroidStudioProjects\QuickTrade_Espresso\QuickTrade\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\apene\Documents\DAM_PC\AndroidStudioProjects\QuickTrade_Espresso\QuickTrade\app\src\main\AndroidManifest.xml:2:1-56:12
+		INJECTED from C:\Users\apene\Documents\DAM_PC\AndroidStudioProjects\QuickTrade_Espresso\QuickTrade\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\apene\Documents\DAM_PC\AndroidStudioProjects\QuickTrade_Espresso\QuickTrade\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\apene\Documents\DAM_PC\AndroidStudioProjects\QuickTrade_Espresso\QuickTrade\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [com.google.firebase:firebase-database-connection:16.0.1] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\jetified-firebase-database-connection-16.0.1.aar\2597e758a4fc58ed67ee475dc49c71ee\AndroidManifest.xml:8:5-67
+MERGED from [com.google.firebase:firebase-database-connection:16.0.1] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\jetified-firebase-database-connection-16.0.1.aar\2597e758a4fc58ed67ee475dc49c71ee\AndroidManifest.xml:8:5-67
+MERGED from [com.google.firebase:firebase-storage-common:16.0.1] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\jetified-firebase-storage-common-16.0.1.aar\f59f87ef4a0aeb6ce004817d52ce5f25\AndroidManifest.xml:8:5-67
+MERGED from [com.google.firebase:firebase-storage-common:16.0.1] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\jetified-firebase-storage-common-16.0.1.aar\f59f87ef4a0aeb6ce004817d52ce5f25\AndroidManifest.xml:8:5-67
+	android:name
+		ADDED from C:\Users\apene\Documents\DAM_PC\AndroidStudioProjects\QuickTrade_Espresso\QuickTrade\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\apene\Documents\DAM_PC\AndroidStudioProjects\QuickTrade_Espresso\QuickTrade\app\src\main\AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from C:\Users\apene\Documents\DAM_PC\AndroidStudioProjects\QuickTrade_Espresso\QuickTrade\app\src\main\AndroidManifest.xml:6:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\apene\Documents\DAM_PC\AndroidStudioProjects\QuickTrade_Espresso\QuickTrade\app\src\main\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from C:\Users\apene\Documents\DAM_PC\AndroidStudioProjects\QuickTrade_Espresso\QuickTrade\app\src\main\AndroidManifest.xml:7:22-78
+application
+ADDED from C:\Users\apene\Documents\DAM_PC\AndroidStudioProjects\QuickTrade_Espresso\QuickTrade\app\src\main\AndroidManifest.xml:9:5-54:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha2] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\constraintlayout-2.0.0-alpha2.aar\688eb9a92e9def91bd37ed61b902f59c\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha2] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\constraintlayout-2.0.0-alpha2.aar\688eb9a92e9def91bd37ed61b902f59c\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-auth:16.0.1] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\jetified-firebase-auth-16.0.1.aar\f38648320230b5caaeff0919fb273ff0\AndroidManifest.xml:22:5-36:19
+MERGED from [com.google.firebase:firebase-auth:16.0.1] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\jetified-firebase-auth-16.0.1.aar\f38648320230b5caaeff0919fb273ff0\AndroidManifest.xml:22:5-36:19
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.0] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\jetified-firebase-auth-interop-16.0.0.aar\e5494863ff864d4cc82bf1eb5f57bcdb\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.0] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\jetified-firebase-auth-interop-16.0.0.aar\e5494863ff864d4cc82bf1eb5f57bcdb\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-common:16.0.0] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\jetified-firebase-common-16.0.0.aar\b4d188dbe24069e0ae6bc4e475296181\AndroidManifest.xml:8:5-14:19
+MERGED from [com.google.firebase:firebase-common:16.0.0] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\jetified-firebase-common-16.0.0.aar\b4d188dbe24069e0ae6bc4e475296181\AndroidManifest.xml:8:5-14:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-15.0.1.aar\78e17ee54372da63eb9ea7b2a125d8dc\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-15.0.1.aar\78e17ee54372da63eb9ea7b2a125d8dc\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\jetified-play-services-tasks-15.0.1.aar\90ce6b5e61aac116bdf202db72d18274\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\jetified-play-services-tasks-15.0.1.aar\90ce6b5e61aac116bdf202db72d18274\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-15.0.1.aar\7451d4195949928085f9b388ef449a63\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-15.0.1.aar\7451d4195949928085f9b388ef449a63\AndroidManifest.xml:22:5-26:19
+MERGED from [com.github.bumptech.glide:glide:4.7.1] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\jetified-glide-4.7.1.aar\c532eb3a4df3970e292acfa9e117f0a2\AndroidManifest.xml:11:5-20
+MERGED from [com.github.bumptech.glide:glide:4.7.1] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\jetified-glide-4.7.1.aar\c532eb3a4df3970e292acfa9e117f0a2\AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.1.0-alpha02] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\core-1.1.0-alpha02.aar\b3ecdb2f276ac8afa50010a81a0a46a9\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.1.0-alpha02] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\core-1.1.0-alpha02.aar\b3ecdb2f276ac8afa50010a81a0a46a9\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha01] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0-alpha01.aar\8ce199417ec2e17ba0696a7bc0d83186\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha01] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0-alpha01.aar\8ce199417ec2e17ba0696a7bc0d83186\AndroidManifest.xml:22:5-23:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\jetified-gifdecoder-4.7.1.aar\48839b6211c0f8e9c5a5bacba079a6e3\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\jetified-gifdecoder-4.7.1.aar\48839b6211c0f8e9c5a5bacba079a6e3\AndroidManifest.xml:9:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0-alpha02] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\core-1.1.0-alpha02.aar\b3ecdb2f276ac8afa50010a81a0a46a9\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from C:\Users\apene\Documents\DAM_PC\AndroidStudioProjects\QuickTrade_Espresso\QuickTrade\app\src\main\AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from C:\Users\apene\Documents\DAM_PC\AndroidStudioProjects\QuickTrade_Espresso\QuickTrade\app\src\main\AndroidManifest.xml:12:9-41
+	android:roundIcon
+		ADDED from C:\Users\apene\Documents\DAM_PC\AndroidStudioProjects\QuickTrade_Espresso\QuickTrade\app\src\main\AndroidManifest.xml:13:9-54
+	android:icon
+		ADDED from C:\Users\apene\Documents\DAM_PC\AndroidStudioProjects\QuickTrade_Espresso\QuickTrade\app\src\main\AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from C:\Users\apene\Documents\DAM_PC\AndroidStudioProjects\QuickTrade_Espresso\QuickTrade\app\src\main\AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from C:\Users\apene\Documents\DAM_PC\AndroidStudioProjects\QuickTrade_Espresso\QuickTrade\app\src\main\AndroidManifest.xml:15:9-40
+activity#com.apps.apene.quicktrade.LoginActivity
+ADDED from C:\Users\apene\Documents\DAM_PC\AndroidStudioProjects\QuickTrade_Espresso\QuickTrade\app\src\main\AndroidManifest.xml:16:9-22:20
+	android:name
+		ADDED from C:\Users\apene\Documents\DAM_PC\AndroidStudioProjects\QuickTrade_Espresso\QuickTrade\app\src\main\AndroidManifest.xml:16:19-48
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\apene\Documents\DAM_PC\AndroidStudioProjects\QuickTrade_Espresso\QuickTrade\app\src\main\AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\apene\Documents\DAM_PC\AndroidStudioProjects\QuickTrade_Espresso\QuickTrade\app\src\main\AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from C:\Users\apene\Documents\DAM_PC\AndroidStudioProjects\QuickTrade_Espresso\QuickTrade\app\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\apene\Documents\DAM_PC\AndroidStudioProjects\QuickTrade_Espresso\QuickTrade\app\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from C:\Users\apene\Documents\DAM_PC\AndroidStudioProjects\QuickTrade_Espresso\QuickTrade\app\src\main\AndroidManifest.xml:20:27-74
+activity#com.apps.apene.quicktrade.SignUp
+ADDED from C:\Users\apene\Documents\DAM_PC\AndroidStudioProjects\QuickTrade_Espresso\QuickTrade\app\src\main\AndroidManifest.xml:23:9-25:49
+	android:label
+		ADDED from C:\Users\apene\Documents\DAM_PC\AndroidStudioProjects\QuickTrade_Espresso\QuickTrade\app\src\main\AndroidManifest.xml:25:13-46
+	android:name
+		ADDED from C:\Users\apene\Documents\DAM_PC\AndroidStudioProjects\QuickTrade_Espresso\QuickTrade\app\src\main\AndroidManifest.xml:24:13-35
+activity#com.apps.apene.quicktrade.Profile
+ADDED from C:\Users\apene\Documents\DAM_PC\AndroidStudioProjects\QuickTrade_Espresso\QuickTrade\app\src\main\AndroidManifest.xml:26:9-28:58
+	android:label
+		ADDED from C:\Users\apene\Documents\DAM_PC\AndroidStudioProjects\QuickTrade_Espresso\QuickTrade\app\src\main\AndroidManifest.xml:28:13-55
+	android:name
+		ADDED from C:\Users\apene\Documents\DAM_PC\AndroidStudioProjects\QuickTrade_Espresso\QuickTrade\app\src\main\AndroidManifest.xml:27:13-36
+activity#com.apps.apene.quicktrade.ProductView
+ADDED from C:\Users\apene\Documents\DAM_PC\AndroidStudioProjects\QuickTrade_Espresso\QuickTrade\app\src\main\AndroidManifest.xml:29:9-31:56
+	android:label
+		ADDED from C:\Users\apene\Documents\DAM_PC\AndroidStudioProjects\QuickTrade_Espresso\QuickTrade\app\src\main\AndroidManifest.xml:31:13-53
+	android:name
+		ADDED from C:\Users\apene\Documents\DAM_PC\AndroidStudioProjects\QuickTrade_Espresso\QuickTrade\app\src\main\AndroidManifest.xml:30:13-40
+activity#com.apps.apene.quicktrade.MainActivity
+ADDED from C:\Users\apene\Documents\DAM_PC\AndroidStudioProjects\QuickTrade_Espresso\QuickTrade\app\src\main\AndroidManifest.xml:32:9-40:20
+	android:label
+		ADDED from C:\Users\apene\Documents\DAM_PC\AndroidStudioProjects\QuickTrade_Espresso\QuickTrade\app\src\main\AndroidManifest.xml:34:13-45
+	android:name
+		ADDED from C:\Users\apene\Documents\DAM_PC\AndroidStudioProjects\QuickTrade_Espresso\QuickTrade\app\src\main\AndroidManifest.xml:33:13-41
+activity#com.apps.apene.quicktrade.UserSettings
+ADDED from C:\Users\apene\Documents\DAM_PC\AndroidStudioProjects\QuickTrade_Espresso\QuickTrade\app\src\main\AndroidManifest.xml:41:9-43:59
+	android:label
+		ADDED from C:\Users\apene\Documents\DAM_PC\AndroidStudioProjects\QuickTrade_Espresso\QuickTrade\app\src\main\AndroidManifest.xml:43:13-56
+	android:name
+		ADDED from C:\Users\apene\Documents\DAM_PC\AndroidStudioProjects\QuickTrade_Espresso\QuickTrade\app\src\main\AndroidManifest.xml:42:13-41
+activity#com.apps.apene.quicktrade.UserPreferences
+ADDED from C:\Users\apene\Documents\DAM_PC\AndroidStudioProjects\QuickTrade_Espresso\QuickTrade\app\src\main\AndroidManifest.xml:44:9-53
+	android:name
+		ADDED from C:\Users\apene\Documents\DAM_PC\AndroidStudioProjects\QuickTrade_Espresso\QuickTrade\app\src\main\AndroidManifest.xml:44:19-50
+activity#com.apps.apene.quicktrade.AddProduct
+ADDED from C:\Users\apene\Documents\DAM_PC\AndroidStudioProjects\QuickTrade_Espresso\QuickTrade\app\src\main\AndroidManifest.xml:45:9-47:60
+	android:label
+		ADDED from C:\Users\apene\Documents\DAM_PC\AndroidStudioProjects\QuickTrade_Espresso\QuickTrade\app\src\main\AndroidManifest.xml:47:13-57
+	android:name
+		ADDED from C:\Users\apene\Documents\DAM_PC\AndroidStudioProjects\QuickTrade_Espresso\QuickTrade\app\src\main\AndroidManifest.xml:46:13-39
+activity#com.apps.apene.quicktrade.ResultsView
+ADDED from C:\Users\apene\Documents\DAM_PC\AndroidStudioProjects\QuickTrade_Espresso\QuickTrade\app\src\main\AndroidManifest.xml:48:9-50:56
+	android:label
+		ADDED from C:\Users\apene\Documents\DAM_PC\AndroidStudioProjects\QuickTrade_Espresso\QuickTrade\app\src\main\AndroidManifest.xml:50:13-53
+	android:name
+		ADDED from C:\Users\apene\Documents\DAM_PC\AndroidStudioProjects\QuickTrade_Espresso\QuickTrade\app\src\main\AndroidManifest.xml:49:13-40
+activity#com.apps.apene.quicktrade.AdvancedSearch
+ADDED from C:\Users\apene\Documents\DAM_PC\AndroidStudioProjects\QuickTrade_Espresso\QuickTrade\app\src\main\AndroidManifest.xml:51:9-53:57
+	android:label
+		ADDED from C:\Users\apene\Documents\DAM_PC\AndroidStudioProjects\QuickTrade_Espresso\QuickTrade\app\src\main\AndroidManifest.xml:53:13-54
+	android:name
+		ADDED from C:\Users\apene\Documents\DAM_PC\AndroidStudioProjects\QuickTrade_Espresso\QuickTrade\app\src\main\AndroidManifest.xml:52:13-43
+uses-sdk
+INJECTED from C:\Users\apene\Documents\DAM_PC\AndroidStudioProjects\QuickTrade_Espresso\QuickTrade\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\apene\Documents\DAM_PC\AndroidStudioProjects\QuickTrade_Espresso\QuickTrade\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\apene\Documents\DAM_PC\AndroidStudioProjects\QuickTrade_Espresso\QuickTrade\app\src\main\AndroidManifest.xml
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha2] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\constraintlayout-2.0.0-alpha2.aar\688eb9a92e9def91bd37ed61b902f59c\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha2] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\constraintlayout-2.0.0-alpha2.aar\688eb9a92e9def91bd37ed61b902f59c\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.1.0-alpha01] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\appcompat-1.1.0-alpha01.aar\50cc066079d8b8475105c3040b0aa7fc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0-alpha01] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\appcompat-1.1.0-alpha01.aar\50cc066079d8b8475105c3040b0aa7fc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-alpha01] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\recyclerview-1.1.0-alpha01.aar\3c73fd1544f2562448b7b1dac328bb5e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-alpha01] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\recyclerview-1.1.0-alpha01.aar\3c73fd1544f2562448b7b1dac328bb5e\AndroidManifest.xml:20:5-44
+MERGED from [com.firebaseui:firebase-ui-storage:4.1.0] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\jetified-firebase-ui-storage-4.1.0.aar\3eb3b7b49300cdb7febbb34148af82ff\AndroidManifest.xml:7:5-9:41
+MERGED from [com.firebaseui:firebase-ui-storage:4.1.0] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\jetified-firebase-ui-storage-4.1.0.aar\3eb3b7b49300cdb7febbb34148af82ff\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-database:16.0.1] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\jetified-firebase-database-16.0.1.aar\06a6f23c747890d55051588a038ab183\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database:16.0.1] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\jetified-firebase-database-16.0.1.aar\06a6f23c747890d55051588a038ab183\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-auth:16.0.1] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\jetified-firebase-auth-16.0.1.aar\f38648320230b5caaeff0919fb273ff0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth:16.0.1] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\jetified-firebase-auth-16.0.1.aar\f38648320230b5caaeff0919fb273ff0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage:16.0.1] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\jetified-firebase-storage-16.0.1.aar\364c4b55a11579978f3379ddf2105fd8\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-storage:16.0.1] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\jetified-firebase-storage-16.0.1.aar\364c4b55a11579978f3379ddf2105fd8\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-connection:16.0.1] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\jetified-firebase-database-connection-16.0.1.aar\2597e758a4fc58ed67ee475dc49c71ee\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-connection:16.0.1] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\jetified-firebase-database-connection-16.0.1.aar\2597e758a4fc58ed67ee475dc49c71ee\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.0] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\jetified-firebase-auth-interop-16.0.0.aar\e5494863ff864d4cc82bf1eb5f57bcdb\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.0] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\jetified-firebase-auth-interop-16.0.0.aar\e5494863ff864d4cc82bf1eb5f57bcdb\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:16.0.0] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\jetified-firebase-common-16.0.0.aar\b4d188dbe24069e0ae6bc4e475296181\AndroidManifest.xml:5:5-6:37
+MERGED from [com.google.firebase:firebase-common:16.0.0] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\jetified-firebase-common-16.0.0.aar\b4d188dbe24069e0ae6bc4e475296181\AndroidManifest.xml:5:5-6:37
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\play-services-flags-15.0.1.aar\086d45a8e2f3ffb00c9c1a145ea87aa6\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\play-services-flags-15.0.1.aar\086d45a8e2f3ffb00c9c1a145ea87aa6\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-15.0.1.aar\78e17ee54372da63eb9ea7b2a125d8dc\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-15.0.1.aar\78e17ee54372da63eb9ea7b2a125d8dc\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\jetified-play-services-tasks-15.0.1.aar\90ce6b5e61aac116bdf202db72d18274\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\jetified-play-services-tasks-15.0.1.aar\90ce6b5e61aac116bdf202db72d18274\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:15.0.1] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\firebase-database-collection-15.0.1.aar\3a4cfc99751695223b82fd60ceb30b1c\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-collection:15.0.1] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\firebase-database-collection-15.0.1.aar\3a4cfc99751695223b82fd60ceb30b1c\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-storage-common:16.0.1] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\jetified-firebase-storage-common-16.0.1.aar\f59f87ef4a0aeb6ce004817d52ce5f25\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-storage-common:16.0.1] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\jetified-firebase-storage-common-16.0.1.aar\f59f87ef4a0aeb6ce004817d52ce5f25\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-15.0.1.aar\7451d4195949928085f9b388ef449a63\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-15.0.1.aar\7451d4195949928085f9b388ef449a63\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0.aar\9ddfd829a047fed8e7b8cc0b3636aeae\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0.aar\9ddfd829a047fed8e7b8cc0b3636aeae\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.7.1] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\jetified-glide-4.7.1.aar\c532eb3a4df3970e292acfa9e117f0a2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.bumptech.glide:glide:4.7.1] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\jetified-glide-4.7.1.aar\c532eb3a4df3970e292acfa9e117f0a2\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\1540ddaef7d5f4ef729cf0cb086a1fd3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\1540ddaef7d5f4ef729cf0cb086a1fd3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\6ec4c514c5d50740ed8be5a850d50bcd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\6ec4c514c5d50740ed8be5a850d50bcd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\2bcfc59a9a2b1f255b8f8491acdfdb46\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\2bcfc59a9a2b1f255b8f8491acdfdb46\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\4b6512b107666aae429676cb53ce825a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\4b6512b107666aae429676cb53ce825a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0-alpha02] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\fragment-1.1.0-alpha02.aar\3c0127dd61bd793a125ed3cdfc34f0a0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0-alpha02] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\fragment-1.1.0-alpha02.aar\3c0127dd61bd793a125ed3cdfc34f0a0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\502c2bd91f18553ca7b0d1a8fe746643\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\502c2bd91f18553ca7b0d1a8fe746643\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\6a8a7140cd401320986338e0de639932\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\6a8a7140cd401320986338e0de639932\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\1f19c133a9d66ab5e170cf71ba76c0f7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\1f19c133a9d66ab5e170cf71ba76c0f7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\b635a819b28a5af964a852dc2372f0b6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\b635a819b28a5af964a852dc2372f0b6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\1d83b0474c98275025f4828294ce6da0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\1d83b0474c98275025f4828294ce6da0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\6d28d432b57744ca80c52a264cd5946c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\6d28d432b57744ca80c52a264cd5946c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\49392e572eb68bfec0ec8f7a6517d049\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\49392e572eb68bfec0ec8f7a6517d049\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\59d29040d81e2d1406c7eec8bbcf87f5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\59d29040d81e2d1406c7eec8bbcf87f5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\cda27cb4f84411b70a387a658bb40310\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\cda27cb4f84411b70a387a658bb40310\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\993cf0a5dd8e80f0ec3475e7f219d77c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\993cf0a5dd8e80f0ec3475e7f219d77c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\0049340560f25d668dd17a818cd69925\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\0049340560f25d668dd17a818cd69925\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\ae4b74ade67efc51f3d437ca1d47e5ce\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\ae4b74ade67efc51f3d437ca1d47e5ce\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0-alpha02] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\activity-1.0.0-alpha02.aar\6affad247874bc3a024e72a0f35f039a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0-alpha02] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\activity-1.0.0-alpha02.aar\6affad247874bc3a024e72a0f35f039a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\6f8ae9de3156a4da5c59d908fe09992b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\6f8ae9de3156a4da5c59d908fe09992b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\14f2b3b0f94fd3036c1a40f86419bc7e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\14f2b3b0f94fd3036c1a40f86419bc7e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\a5b4696c5f360c2956d786aced2fac8f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\a5b4696c5f360c2956d786aced2fac8f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\9218358202e0f8c6b8005b7290fdf367\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\9218358202e0f8c6b8005b7290fdf367\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\media-1.0.0.aar\9763a64e8546dca4297e8eafc42a0b97\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\media-1.0.0.aar\9763a64e8546dca4297e8eafc42a0b97\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.1.aar\a09ec8a571cbd32e437a44a7cf08a3d0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.1.aar\a09ec8a571cbd32e437a44a7cf08a3d0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0-alpha02] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\core-1.1.0-alpha02.aar\b3ecdb2f276ac8afa50010a81a0a46a9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0-alpha02] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\core-1.1.0-alpha02.aar\b3ecdb2f276ac8afa50010a81a0a46a9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\bfe446c133596fba69f42d6dbe8b268c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\bfe446c133596fba69f42d6dbe8b268c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha01] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0-alpha01.aar\8ce199417ec2e17ba0696a7bc0d83186\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha01] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0-alpha01.aar\8ce199417ec2e17ba0696a7bc0d83186\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\jetified-gifdecoder-4.7.1.aar\48839b6211c0f8e9c5a5bacba079a6e3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\jetified-gifdecoder-4.7.1.aar\48839b6211c0f8e9c5a5bacba079a6e3\AndroidManifest.xml:5:5-7:41
+INJECTED from C:\Users\apene\Documents\DAM_PC\AndroidStudioProjects\QuickTrade_Espresso\QuickTrade\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\apene\Documents\DAM_PC\AndroidStudioProjects\QuickTrade_Espresso\QuickTrade\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\apene\Documents\DAM_PC\AndroidStudioProjects\QuickTrade_Espresso\QuickTrade\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\apene\Documents\DAM_PC\AndroidStudioProjects\QuickTrade_Espresso\QuickTrade\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\apene\Documents\DAM_PC\AndroidStudioProjects\QuickTrade_Espresso\QuickTrade\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\apene\Documents\DAM_PC\AndroidStudioProjects\QuickTrade_Espresso\QuickTrade\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\apene\Documents\DAM_PC\AndroidStudioProjects\QuickTrade_Espresso\QuickTrade\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\apene\Documents\DAM_PC\AndroidStudioProjects\QuickTrade_Espresso\QuickTrade\app\src\main\AndroidManifest.xml
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:16.0.1] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\jetified-firebase-auth-16.0.1.aar\f38648320230b5caaeff0919fb273ff0\AndroidManifest.xml:23:9-29:75
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:16.0.1] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\jetified-firebase-auth-16.0.1.aar\f38648320230b5caaeff0919fb273ff0\AndroidManifest.xml:25:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:16.0.1] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\jetified-firebase-auth-16.0.1.aar\f38648320230b5caaeff0919fb273ff0\AndroidManifest.xml:27:13-48
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:16.0.1] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\jetified-firebase-auth-16.0.1.aar\f38648320230b5caaeff0919fb273ff0\AndroidManifest.xml:26:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:16.0.1] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\jetified-firebase-auth-16.0.1.aar\f38648320230b5caaeff0919fb273ff0\AndroidManifest.xml:28:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:16.0.1] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\jetified-firebase-auth-16.0.1.aar\f38648320230b5caaeff0919fb273ff0\AndroidManifest.xml:29:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.1] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\jetified-firebase-auth-16.0.1.aar\f38648320230b5caaeff0919fb273ff0\AndroidManifest.xml:24:13-85
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-auth:16.0.1] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\jetified-firebase-auth-16.0.1.aar\f38648320230b5caaeff0919fb273ff0\AndroidManifest.xml:31:9-35:19
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.1] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\jetified-firebase-auth-16.0.1.aar\f38648320230b5caaeff0919fb273ff0\AndroidManifest.xml:31:18-89
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:16.0.1] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\jetified-firebase-auth-16.0.1.aar\f38648320230b5caaeff0919fb273ff0\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:16.0.1] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\jetified-firebase-auth-16.0.1.aar\f38648320230b5caaeff0919fb273ff0\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.1] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\jetified-firebase-auth-16.0.1.aar\f38648320230b5caaeff0919fb273ff0\AndroidManifest.xml:33:17-109
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:16.0.0] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\jetified-firebase-common-16.0.0.aar\b4d188dbe24069e0ae6bc4e475296181\AndroidManifest.xml:9:9-13:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:16.0.0] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\jetified-firebase-common-16.0.0.aar\b4d188dbe24069e0ae6bc4e475296181\AndroidManifest.xml:11:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:16.0.0] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\jetified-firebase-common-16.0.0.aar\b4d188dbe24069e0ae6bc4e475296181\AndroidManifest.xml:12:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:16.0.0] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\jetified-firebase-common-16.0.0.aar\b4d188dbe24069e0ae6bc4e475296181\AndroidManifest.xml:13:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:16.0.0] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\jetified-firebase-common-16.0.0.aar\b4d188dbe24069e0ae6bc4e475296181\AndroidManifest.xml:10:13-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-15.0.1.aar\78e17ee54372da63eb9ea7b2a125d8dc\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-15.0.1.aar\78e17ee54372da63eb9ea7b2a125d8dc\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-15.0.1.aar\78e17ee54372da63eb9ea7b2a125d8dc\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-15.0.1.aar\78e17ee54372da63eb9ea7b2a125d8dc\AndroidManifest.xml:24:13-79
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-storage-common:16.0.1] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\jetified-firebase-storage-common-16.0.1.aar\f59f87ef4a0aeb6ce004817d52ce5f25\AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-storage-common:16.0.1] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\jetified-firebase-storage-common-16.0.1.aar\f59f87ef4a0aeb6ce004817d52ce5f25\AndroidManifest.xml:7:22-76
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-15.0.1.aar\7451d4195949928085f9b388ef449a63\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-15.0.1.aar\7451d4195949928085f9b388ef449a63\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\apene\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-15.0.1.aar\7451d4195949928085f9b388ef449a63\AndroidManifest.xml:24:13-58

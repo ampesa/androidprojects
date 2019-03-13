@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.apps.apene.quicktrade">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".LoginActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".SignUp"
+            android:label="@string/bt_signup" />
+        <activity
+            android:name=".Profile"
+            android:label="@string/menu_profile_title" />
+        <activity
+            android:name=".ProductView"
+            android:label="@string/activity_product" />
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".UserSettings"
+            android:label="@string/menu_settings_title" />
+        <activity android:name=".UserPreferences" />
+        <activity
+            android:name=".AddProduct"
+            android:label="@string/activity_add_product" />
+        <activity
+            android:name=".ResultsView"
+            android:label="@string/activity_results" />
+        <activity
+            android:name=".AdvancedSearch"
+            android:label="@string/menu_search_title" />
+    </application>
+
+</manifest>

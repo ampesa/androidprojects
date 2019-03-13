@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory
+        android:title="@string/pref_cat_start_title">
+
+        <ListPreference
+            android:key="pref_show"
+            android:title="@string/pref_list_show_title"
+            android:summary="@string/pref_list_show_summary"
+            android:entries="@array/show_list"
+            android:entryValues="@array/show_values"
+            android:defaultValue="1"/>
+
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:title="@string/pref_cat_search_title">
+
+        <ListPreference
+            android:key="pref_search"
+            android:title="@string/pref_list_search_title"
+            android:summary="@string/pref_list_search_summary"
+            android:entries="@array/search_list"
+            android:entryValues="@array/search_values"
+            android:defaultValue="1"/>
+
+        <SwitchPreference
+            android:key="pref_everywhere"
+            android:title="@string/pref_switch_everywhere_title"
+            android:summary="@string/pref_switch_everywhere_summary"
+            android:defaultValue="false"/>
+
+        <CheckBoxPreference
+            android:key="pref_photo"
+            android:title="@string/pref_checkbox_photo"
+            android:defaultValue="true"/>
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

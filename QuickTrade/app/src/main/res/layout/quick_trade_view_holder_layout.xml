@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/gl_results"
+    android:layout_marginHorizontal="20dp"
+    android:layout_marginTop="20dp">
+
+    <ImageView
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:id="@+id/iv_results_image"
+        android:scaleType="fitCenter"
+        android:layout_centerHorizontal="true"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/tv_results_title"
+        android:layout_below="@id/iv_results_image"
+        android:textAlignment="center"
+        android:textSize="20sp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/tv_results_price"
+        android:layout_below="@id/tv_results_title"
+        android:textAlignment="center"
+        android:textSize="20sp"/>
+
+</RelativeLayout>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".LoginActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tv_login_app_name"
+        android:textSize="50sp"
+        android:text="@string/app_name"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="20dp"/>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/iv_login_logo"
+        android:src="@mipmap/app_icon_001"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/tv_login_app_name"
+        android:layout_marginVertical="20dp"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/et_login_email"
+        android:layout_below="@+id/iv_login_logo"
+        android:hint="@string/et_login_email"
+        android:inputType="textEmailAddress"
+        android:textAlignment="center"
+        android:layout_centerHorizontal="true"
+        android:layout_marginHorizontal="70dp"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/et_login_pass"
+        android:layout_below="@+id/et_login_email"
+        android:hint="@string/et_login_pass"
+        android:inputType="textPassword"
+        android:textAlignment="center"
+        android:layout_centerHorizontal="true"
+        android:layout_marginHorizontal="70dp"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/bt_login_sign_in"
+        android:layout_below="@id/et_login_pass"
+        android:text="@string/button_sign_in"
+        android:textAllCaps="false"
+        android:textSize="20sp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginHorizontal="70dp"
+        android:layout_marginVertical="10dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tv_login_forgotten"
+        android:layout_below="@id/bt_login_sign_in"
+        android:text="@string/tv_login_forgotten"
+        android:layout_alignStart="@id/bt_login_sign_in"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tv_login_sign_up"
+        android:layout_below="@id/bt_login_sign_in"
+        android:text="@string/tv_login_sign_up"
+        android:layout_alignEnd="@id/bt_login_sign_in"/>
+
+</RelativeLayout>

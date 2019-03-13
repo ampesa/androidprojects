@@ -1,0 +1,119 @@
+<resources>
+    <string name="app_name">QuickTrade</string>
+
+    <string name="activity_product">Product</string>
+    <string name="activity_add_product">Upload Product</string>
+    <string name="activity_results">Results</string>
+
+    <!-- Strings Firebase-->
+    <string name="db_node_users">users</string>
+    <string name="db_node_products">products</string>
+    <string name="db_node_images">images</string>
+
+    <!-- Toasts-->
+    <string name="signup_ok">Your new user has been registered</string>
+    <string name="signup_fail">Impossible to Sign Up your account</string>
+    <string name="signup_no_uid">Impossible to get new user UID</string>
+    <string name="signup_no_zip">You must type a zip code</string>
+    <string name="signup_no_country">You must type a country</string>
+    <string name="signup_no_family">You must type your family name</string>
+    <string name="signup_no_name">You must type your name</string>
+    <string name="signup_no_email">You must type a valid email</string>
+    <string name="signup_no_password">Password must have at least 6 caracters lenght</string>
+    <string name="toast_product_no_title">You must type a title for your product</string>
+    <string name="toast_product_no_description">Please, type a description of what are you selling</string>
+    <string name="toast_product_no_price">Price must be a number between 1 and 99999</string>
+    <string name="toast_product_add_ok">Congratulations! your product has been added</string>
+    <string name="toast_product_upload_ok">Congratulations! your product has been uploaded</string>
+    <string name="login_ok">Login successful</string>
+    <string name="login_fail">Login failed</string>
+    <string name="reset_pass_ok">Email send, check your inbox and follow the link to reset your password</string>
+    <string name="reset_pass_fail">Please, type your email first</string>
+    <string name="toast_upload_pic_ok">Pic upload OK</string>
+    <string name="toast_upload_pic_fail">Pic upload FAIL</string>
+    <string name="toast_buy_confirmation">CONGRATULATIONS you bought the product!!</string>
+    <string name="toast_delete_confirmation">The product has been deleted from database</string>
+    <string name="toast_delete_canceled">Deletion canceled</string>
+
+    <!--Texts -->
+    <string name="et_login_email">Email</string>
+    <string name="et_login_pass">Password</string>
+    <string name="button_sign_in">Sign In</string>
+    <string name="tv_login_forgotten">Forgotten Password</string>
+    <string name="tv_login_sign_up">Sign Up</string>
+    <string name="tv_signup_access">Your access data</string>
+    <string name="tv_signup_personal">Your personal data</string>
+    <string name="et_signup_name">Name</string>
+    <string name="et_signup_family">Family Name</string>
+    <string name="signup_country">Country</string>
+    <string name="et_signup_zip">Zip Code</string>
+    <string name="bt_signup">Sign Up</string>
+    <string name="profile_edit_ok">Your data has been saved ok</string>
+    <string name="tv_profile_email">Email: </string>
+    <string name="tv_profile_pass">Password: </string>
+    <string name="tv_profile_name">Name: </string>
+    <string name="tv_profile_family">Family Name: </string>
+    <string name="tv_profile_country">Country: </string>
+    <string name="tv_profile_zip">Zip Code: </string>
+    <string name="bt_profile_edit">Edit</string>
+    <string name="bt_profile_save">Save</string>
+    <string name="tv_profile_products">Your products</string>
+    <string name="tv_product_description">Description</string>
+    <string name="tv_product_category">Product Category</string>
+    <string name="tv_product_price">Price</string>
+    <string name="tv_product_location">Location</string>
+    <string name="bt_product_buy">Buy</string>
+    <string name="bt_product_edit">Edit</string>
+    <string name="bt_product_add">Add</string>
+    <string name="bt_product_delete">Delete</string>
+    <string name="tv_main_search_category">Search by category</string>
+    <string name="tv_main_latest">Latest products</string>
+    <string name="tv_main_near">Near to You</string>
+    <string name="bt_main_upload">Upload</string>
+    <string name="pref_cat_start_title">Start settings</string>
+    <string name="pref_list_show_title">Start Screen products</string>
+    <string name="pref_list_show_summary">Select what products we must show you in Start Screen</string>
+    <string name="pref_list_show_item_recent">Recent products first</string>
+    <string name="pref_list_show_item_near">Nearest products first</string>
+    <string name="pref_cat_search_title">Search settings</string>
+    <string name="pref_list_search_title">Search Order</string>
+    <string name="pref_list_search_summary">Select which order do you want us to show you the search results</string>
+    <string name="pref_list_search_item_recent">Recent first</string>
+    <string name="pref_list_search_item_cheap">Cheaper first</string>
+    <string name="pref_switch_everywhere_title">Show products from everywhere</string>
+    <string name="pref_switch_everywhere_summary">Switch off if you only want to see products from your country</string>
+    <string name="pref_checkbox_photo">Only show products with photo</string>
+    <string name="menu_profile_title">Profile</string>
+    <string name="menu_settings_title">Settings</string>
+    <string name="menu_search_title">Search</string>
+    <string name="menu_my_products_title">My products</string>
+    <string name="menu_logout_title">Logout</string>
+    <string name="delete_product_delete">Delete</string>
+    <string name="delete_product_cancel">Cancel</string>
+    <string name="tv_add_product_title_label">What do you sell?</string>
+    <string name="et_add_product_title">Add a title or name for your product</string>
+    <string name="et_add_product_description">Add a description of your product</string>
+    <string name="et_add_product_price">Add the price</string>
+    <string name="et_add_product_country">Country</string>
+    <string name="et_add_product_zip">Add a zip location</string>
+    <string name="tv_add_image_label">Add image of your product</string>
+    <string name="tv_add_product_dollar">$</string>
+    <string name="tv_add_product_euro">€</string>
+    <string name="tv_add_product_category_label">Select a category</string>
+    <string name="spn_advanced_category_all">All</string>
+    <string name="spn_add_product_category_vehicles">Vehicles</string>
+    <string name="spn_add_product_category_home">Home</string>
+    <string name="spn_add_product_category_tech">Technology</string>
+    <string name="spn_advanced_country_all">All</string>
+    <string name="spn_add_product_country_spain">Spain</string>
+    <string name="spn_add_product_country_france">France</string>
+    <string name="spn_add_product_country_germany">Germany</string>
+    <string name="spn_add_product_country_usa">USA</string>
+    <string name="sv_add_product_sold">Mark as sold</string>
+    <string name="tv_advanced_category">Select a category</string>
+    <string name="tv_advanced_location">Select a location</string>
+    <string name="tv_advanced_email">Input seller email</string>
+    <string name="bt_advanced_search">Search</string>
+
+
+</resources>
